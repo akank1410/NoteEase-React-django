@@ -1,5 +1,4 @@
 # NoteEase
-============
 
 ## Project Overview
 **NoteEase** is a secure, user-friendly web application that allows different users to create, manage, and store notes. Developed using React for the frontend and Django for the backend, the application integrates JSON Web Tokens (JWT) to ensure secure authentication and session management.
